@@ -1,0 +1,90 @@
+Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14
+,,,2019/20,,,2020/21,,,2021/22,,,2022/23,
+Department..,Programme..,Apps,Offers,Entran..,Apps,Offers,Entrants,Apps,Offers,Entrants,Apps,Offers,Entran..
+Accounting,UG Degree,"1,702",267,114,"1,778",312,143,"1,881",176,115,"1,962",261,112
+Accounting,UG General ..,10,10,8,9,8,*,13,12,12,14,11,8
+Accounting,PG Taught,"1,760",355,250,"1,749",474,304,"1,723",384,258,"1,611",370,253
+Accounting,MRes,0,0,0,61,*,*,53,*,0,47,*,*
+Accounting,MPhil,93,5,*,0,0,0,0,0,0,0,0,0
+Anthropology,UG Degree,565,208,58,558,228,66,608,165,60,671,232,73
+Anthropology,UG General ..,6,6,5,6,6,*,*,*,*,10,7,*
+Anthropology,PG Taught,430,200,92,533,276,126,582,253,103,637,233,94
+Anthropology,MRes,66,17,7,75,29,7,96,25,5,51,19,8
+Economic History,UG Degree,683,139,67,722,141,90,"1,015",104,71,981,130,71
+Economic History,UG General ..,32,32,29,27,27,9,34,34,26,33,33,28
+Economic History,PG Taught,513,171,91,560,210,123,622,182,97,885,242,144
+Economic History,MRes,14,0,0,11,0,0,10,0,0,0,0,0
+Economic History,MPhil,61,15,*,56,13,6,49,11,6,49,16,8
+Economics,UG Degree,"3,234",503,235,"3,679",488,265,"4,373",335,202,"4,213",437,261
+Economics,UG General ..,59,59,50,46,45,15,72,70,51,64,56,43
+Economics,PG Taught,"1,747",564,207,"1,811",663,237,"1,888",532,220,"1,779",613,201
+Economics,MRes,479,97,24,532,92,33,594,83,29,545,82,18
+European Institute,PG Taught,864,380,243,832,416,292,873,377,253,791,381,232
+European Institute,MPhil,58,8,*,29,*,*,41,*,*,37,*,*
+Finance,UG Degree,605,126,52,676,143,68,882,91,53,"1,133",151,74
+Finance,UG General ..,18,17,15,27,25,7,20,19,14,17,16,11
+Finance,PG Taught,"4,112",524,266,"3,839",625,285,"4,509",633,274,"4,475",587,282
+Finance,MRes,98,13,7,120,13,7,101,10,5,99,12,6
+Gender Studies,PG Taught,787,224,110,767,282,139,867,276,151,863,297,150
+Gender Studies,MPhil,152,8,6,86,*,*,79,5,*,69,*,*
+Geography and Environment,UG Degree,732,307,78,869,322,103,960,201,81,"1,083",242,92
+Geography and Environment,UG General ..,21,20,18,21,21,*,18,18,14,17,14,13
+Geography and Environment,PG Taught,"2,214",542,292,"2,361",693,312,"2,818",655,297,"2,962",665,321
+Geography and Environment,MPhil,258,49,19,230,46,16,227,30,10,224,22,12
+Government,UG Degree,"2,453",418,145,"2,474",446,184,"2,913",313,153,"2,660",417,183
+Government,UG General ..,47,41,33,35,35,*,32,27,21,39,32,21
+Government,PG Taught,"2,070",518,304,"1,981",579,304,"2,175",572,287,"1,847",515,245
+Government,MRes,209,20,6,190,22,8,213,26,9,206,26,10
+Health Policy,PG Taught,750,332,186,731,408,209,806,423,198,974,455,220
+Health Policy,MPhil,95,11,7,92,11,8,74,7,6,60,10,7
+International Development,PG Taught,"2,013",554,290,"1,998",706,343,"1,986",680,356,"1,916",663,351
+International Development,MRes,117,21,6,121,28,8,168,24,5,107,11,*
+International Development,MPhil,0,0,*,0,0,0,0,0,0,0,0,0
+International History,UG Degree,801,342,76,713,368,98,735,218,69,"1,235",400,131
+International History,UG General ..,29,29,25,19,17,*,21,21,19,16,16,9
+International History,PG Taught,488,275,181,582,307,207,662,290,175,658,291,190
+International History,MPhil,59,19,9,41,13,9,65,24,10,61,23,8
+International Relations,UG Degree,861,161,58,784,163,87,849,100,44,778,158,77
+International Relations,UG General ..,37,32,26,32,31,12,26,23,14,46,39,30
+International Relations,PG Taught,"1,905",417,244,"1,659",495,259,"1,817",448,250,"1,607",429,274
+International Relations,MPhil,225,14,11,183,15,9,226,24,10,193,13,7
+Language Centre,UG Degree,326,69,21,343,101,29,314,88,34,314,105,31
+Language Centre,UG General ..,0,0,0,0,0,0,0,0,0,*,0,0
+Law School,UG Degree,"2,496",511,157,"2,457",541,193,"2,667",381,171,"2,664",462,188
+Law School,UG General ..,10,10,8,11,10,*,14,13,10,19,18,14
+Law School,PG Taught,"2,576",674,296,"2,327",724,267,"2,414",799,314,"2,305",673,288
+Law School,MPhil,232,12,7,176,10,11,213,15,10,168,12,7
+Management,UG Degree,"1,731",390,150,"1,848",392,196,"2,303",226,144,"2,243",329,173
+Management,UG General ..,56,47,38,46,44,21,53,50,39,44,42,37
+Management,PG Taught,"5,848","1,151",621,"6,685","1,384",683,"6,415","1,221",631,"6,443","1,237",649
+Management,MRes,58,0,0,59,10,5,42,10,6,134,7,6
+Management,MPhil,0,0,0,37,*,*,33,*,*,29,*,*
+Mathematics,UG Degree,"1,198",316,135,"1,230",309,157,"1,400",241,161,"1,466",264,137
+Mathematics,UG General ..,24,24,15,25,24,*,12,12,*,8,8,7
+Mathematics,PG Taught,"1,215",247,89,"1,363",292,104,"1,626",262,91,"1,304",256,84
+Mathematics,MPhil,42,11,*,30,15,*,47,13,6,46,9,5
+Media and Communications,PG Taught,"2,579",548,313,"2,571",627,344,"2,684",575,294,"2,639",533,323
+Media and Communications,MPhil,143,17,6,135,22,8,193,32,10,119,20,8
+Methodology,PG Taught,677,96,52,764,144,52,580,144,52,553,154,60
+Methodology,MPhil,28,6,*,25,*,*,42,11,7,45,6,5
+"Philosophy, Logic and Scientific Method",UG Degree,"1,481",298,88,"1,426",294,108,"1,531",207,90,"1,409",274,121
+"Philosophy, Logic and Scientific Method",UG General ..,16,13,13,7,7,*,12,12,10,11,11,10
+"Philosophy, Logic and Scientific Method",PG Taught,406,156,82,478,164,89,400,144,82,449,155,73
+"Philosophy, Logic and Scientific Method",MPhil,66,16,*,77,13,7,65,12,6,52,11,7
+Psychological and Behavioural Science,UG Degree,370,109,31,526,137,34,670,112,40,788,161,48
+Psychological and Behavioural Science,PG Taught,"1,387",313,179,"1,520",392,211,"1,725",388,224,"1,667",408,269
+Psychological and Behavioural Science,MPhil,55,12,8,59,21,12,49,22,14,45,13,9
+School of Public Policy,PG Taught,"1,045",432,156,"1,006",504,136,"1,142",545,170,"1,346",615,241
+Social Policy,UG Degree,787,189,57,671,188,79,908,101,46,948,159,75
+Social Policy,UG General ..,8,8,7,7,7,*,8,7,6,5,5,*
+Social Policy,PG Taught,"1,192",345,192,"1,084",415,202,"1,159",458,212,"1,092",425,215
+Social Policy,MPhil,156,15,8,136,16,10,110,5,*,98,12,10
+Sociology,UG Degree,352,160,36,458,176,58,525,112,53,567,123,49
+Sociology,UG General ..,10,8,7,9,8,*,6,6,5,*,*,*
+Sociology,PG Taught,"1,442",473,241,"1,640",562,239,"1,772",518,259,"1,654",531,266
+Sociology,MPhil,174,16,10,142,17,13,141,12,6,120,13,5
+Statistics,UG Degree,944,275,108,976,285,125,"1,507",249,153,"1,620",289,152
+Statistics,UG General ..,12,12,10,14,14,*,18,17,12,14,10,9
+Statistics,PG Taught,"2,015",238,98,"2,102",305,129,"2,071",260,106,"1,822",298,129
+Statistics,MPhil,52,13,9,31,7,*,52,13,*,57,15,8
+Unknown,UG General ..,18,0,0,*,0,0,*,*,0,*,0,0
